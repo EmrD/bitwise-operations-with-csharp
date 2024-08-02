@@ -3,6 +3,8 @@
 // | operatörü herhangi bir bit 1 ise 1 döner; aksi takdirde 0 döner
 // ~ operatörü bitleri tersine çevirir
 // ^ operatörü iki taraftaki bitler farklı ise 1 döner; aksi takdirde 0 döner
+// >> (Right Shifting) Bitleri belirtilen sayı kadar sola kaydırır. Boş kalan bitleri 0 ile doldurur. 
+// << (Left Shifting) Bitleri belirtilen sayı kadar sağa kaydırır. Boş kalan bitleri 0 ile doldurur. 
 
 class Program
 {
