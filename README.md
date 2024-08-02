@@ -1,7 +1,10 @@
-# Blazor App
+# C# App
 
-This is a simple .NET Blazor app starter.
+This is a simple .NET app starter.
 
 ## Getting Started
 
-Previews should run automatically when starting a workspace.
+To test locally, run: 
+```sh
+dotnet run
+```
